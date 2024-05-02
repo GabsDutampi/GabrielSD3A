@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem Vindo a Minha Casa dos Sonhos 💜💜
 
-<!--
-**GabrielSD3A/GabrielSD3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel Duarte ou pode me chamar apenas de Duarte
 
-Here are some ideas to get you started:
+- Estou estudando pelo Alura
+- Estou aprendendo sobre esse novo mundo da tecnologia
+- Vou utilizar esse espaço para me organizar e arrumar meus projetos pessoais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### se quiser entrar em contato comigo segue a proxima linha
+
+- Não vai ter como entrar em contato comigo, pois sou menor de idade 🧑‍🤝‍🧑
+
+![](https://media1.tenor.com/m/JSkGo2B3op8AAAAC/dirt-alone.gif)
