@@ -1,6 +1,6 @@
 ### Bem Vindo a Minha Casa dos Sonhos 💜💜
 
-Meu nome é Gabriel Duarte ou pode me chamar apenas de Duarte
+Meu nome é Gabriel Duarte ou pode me chamar apenas de Gabs
 
 - Estou estudando pelo Alura
 - Estou aprendendo sobre esse novo mundo da tecnologia
